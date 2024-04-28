@@ -1,7 +1,7 @@
 
-# Burger Company Website
+# Burger  Website
 
-This is a simple website for Burger Company, a fictional burger restaurant. It includes sections for home, special offers, menu, upcoming events, and a reservation form.
+This is a simple website for Burger , a fictional burger restaurant. It includes sections for home, special offers, menu, upcoming events, and a reservation form.
 
 ## Technologies Used
 
