@@ -1,7 +1,11 @@
-
 # Burger  Website
 
 This is a simple website for Burger , a fictional burger restaurant. It includes sections for home, special offers, menu, upcoming events, and a reservation form.
+
+
+
+![javscript3](https://github.com/fahad0samara/vite-Burger-/assets/90055525/7c5dda73-4442-4024-ba55-bf7abe71edc7)
+
 
 ## Technologies Used
 
